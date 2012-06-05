@@ -11,6 +11,10 @@ Repository is using Git Submodules. After cloning of repository stay in root and
     git submodule update
 
 ## Changes ##
+2.23 c (2012-06-05)
+
+- add lineWrapper
+
 2.23 b (2012-04-15)
 
 - fixed bug with rendering of CM on document Content
